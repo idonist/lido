@@ -2,3 +2,4 @@ lidos
 
 react
 openai
+openai
