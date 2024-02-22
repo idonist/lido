@@ -7,3 +7,4 @@ security
 docker
 api
 framework
+algorithm
